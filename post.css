@@ -1,0 +1,290 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* POST */
+.post{
+    width: 100%;
+    background-color: #ff003c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.post .container{
+    width: 70%;
+    background-color: #ffffff;
+    padding: 50px 20px;
+}
+
+.post .container .product-header{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5px;
+}
+.post .container .product-header .title{
+    width: 690px;
+    height: 30px;
+    padding: 0 20px;
+}
+.post .container .product-header .title h1{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #212c3a;
+}
+.post .container .product-header .likebutton{
+    width: 160px;
+    height: 30px;
+    display: inline-block;
+    padding: 0 35px;
+}
+.post .container .product-header .likebutton a{
+    position: relative;
+    text-decoration: none;
+    font-size: 15px;
+    color: #ca1016;
+    line-height: 30px;
+    cursor: pointer;
+}
+
+.post .container .product-image-slider{
+    width: 640px;
+    height: 540px;
+    position: relative;
+}
+.post .container .product-image-slider .images .image{
+    width: 640px;
+    height: 480px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.post .container .product-image-slider .images img{
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+.post .container .product-image-slider .images .button{
+    position: absolute;
+    top: 40%;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    z-index: 5;
+    color: #ffffff;
+}
+.post .container .product-image-slider .images .button a{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    vertical-align: middle;
+    align-items: center;
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.8);
+    font-size: 20px;
+    user-select: none;
+}
+.post .container .product-image-slider .images .button .prev{
+    border-radius: 0 5px 5px 0;
+}
+.post .container .product-image-slider .images .button .next{
+    border-radius: 5px 0 0 5px;
+}
+
+.post .container .product-image-slider .subimages{
+    margin-top: 5px;
+    width: 640px;
+    height: 50px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    overflow: hidden;
+    overflow-x: scroll;
+}
+.post .container .product-image-slider .subimages .item{
+    min-width: 70px;
+    min-height: 50px;
+    overflow: hidden;
+    border-radius: 7px;
+    cursor: pointer;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 2px;
+    display: inline-block;
+}
+
+.post .container .product-about{
+    width: 640px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 50px 0;
+}
+.post .container .product-about .column{
+    width: 315px;
+    margin: 0 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+.post .container .product-about .column .property{
+    width: 100%;
+    height: 18px;
+    display: grid;
+    grid-template-columns: 140px auto;
+    -webkit-column-gap: 5px;
+    -moz-column-gap: 5px;
+    column-gap: 5px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    margin: 2px 0;
+}
+.post .container .product-about .column .property label{
+    color: #8d94ad;
+}
+.post .container .product-about .column .property span{
+    color: #212c3a;
+}
+
+.product-sidebar{
+    width: 310px;
+    height: 330px;
+    position: absolute;
+    right: 15%;
+    top: 15%;
+    padding: 20px;
+    border-radius: 7px;
+    background-color: #f6f7fa;
+}
+.product-sidebar .sidebar{
+    width: 100%;
+    height: 100%;
+    position: sticky;
+}
+.product-sidebar .sidebar .product-price{
+    width: 100%;
+    padding: 0 0 20px 0;
+}
+.product-sidebar .sidebar .product-price .price{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+.product-sidebar .sidebar .product-price .price-converted{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
+.product-sidebar .sidebar .product-owner{
+    border-top: 1px solid #eaebf2;
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.product-sidebar .sidebar .product-owner .owner-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+}
+.product-sidebar .sidebar .product-owner .owner-info h1{
+    color: #212c3a;
+    font-size: 16px;
+    line-height: 19px;
+}
+.product-sidebar .sidebar .product-owner .owner-info p{
+    color: #8d94ad;
+    margin-top: 2px;
+    font-size: 14px;
+    line-height: 17px;
+}
+.product-sidebar .sidebar .product-owner .owner-logo{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    background: url(//turbo.azstatic.com/assets/application/sprites/main-81621bca022dacba82baf03eb6a48661caa4cadfcac266156ebeadeb662d1b14.svg#icon-owner-fallback) no-repeat center/63px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid #d8d8d8;
+    background-color: #d8d8d8;
+}
+.product-sidebar .sidebar .product-installment{
+    padding-top: 15px;
+    width: 100%;
+    height: 63px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.product-sidebar .sidebar .product-installment button{
+    width: 270px;
+    height: 48px;
+    cursor: pointer;
+    color: #fff;
+    border: 1px solid #ca1016;
+    padding: 15px 40px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 15px;
+    color: #fff;
+    text-decoration: none;
+    vertical-align: middle;
+    border-radius: 7px;
+    transition: 0.5s;
+    background-color: #3db460;
+}
+.product-sidebar .sidebar .product-installment button:hover{
+    background-color: #269547;
+    transition: 0.5s;
+}
+
+
+
+/* SIMILAR POSTS */
+
+.posts{
+    flex-direction: column;
+    position: relative;
+}
+.section{
+    width: 70%;
+    background-color: #f3f4f7;
+    margin: 0 auto;
+    padding: 50px 20px;
+}
+.posts .section .title-section{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    display: inline-block;
+}
+
+.posts .section .title-section .similar{
+    line-height: 20px;
+    margin: 0 40px;
+    font-size: 16px;
+    color: #212c3a;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+

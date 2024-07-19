@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bar{
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ca1016;
+    position: relative;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.bar .Sign{
+    position: absolute;
+    right: 5%;
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+.bar .Sign a{
+    color: #e1e1e1;
+    text-decoration: none;
+    font-size: 20px;
+    transition: 0.2s;
+}
+.bar .Sign a i{
+    margin: 0 8px;
+}
+.bar .Sign a:hover{
+    color: #c1c0c0;
+    transition: 0.2s;
+}
+
+.navbar{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar h1{
+    margin: 20px;
+    font-size: 18px;
+    font-weight: 700;    
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.navbar a{
+    margin: 20px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.2;
+    transition: 0.2s;
+    text-decoration: none;
+    color: #ffffff;
+
+    float: left;
+    padding: 21px 10px;
+    position: relative;
+}
+.navbar a:hover{
+    color: #f5cecd;
+}
+.navbar button{
+    margin: 20px;
+    font-size: 1.2em;
+    padding: 5px;
+    width: 100px;
+    height: 45px;
+    border: 1px solid transparent;
+    background-color: #7ed321;
+    border-radius: 7px;
+    margin: 0 0 0 auto;
+    padding: 0 10px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #fff;
+    transition: 0.5s;
+}
+.navbar button:hover{
+    cursor: pointer;
+    background-color: #85c01f;
+    transition: 0.5s;
+}
+/* FILTER */
+.addcar{
+    width: 100%;
+    background-color: #ff003c;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    position: relative;
+}
+.addcar .inputfields{
+    width: 70%;
+    min-height: 100vh;
+    background-color: #ebedf3;
+    margin: 0 auto;
+    padding: 50px 20px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: space-evenly;
+    justify-items: center;
+    align-content: space-evenly;
+    align-items: center;
+    position: relative;
+}
+.addcar .inputfields .inputfield{
+    width: 250px;
+    height: 70px;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.addcar .inputfields .inputfield .exampleLabel{
+    color: #777;
+    padding: 0 8px;  
+    position: absolute;
+    top: -15px;
+    left: 20px;
+    pointer-events:none; /* let the click pass trough */
+}
+.addcar .inputfields .inputfield select, .addcar .inputfields .inputfield input{
+    width: 235px;
+    height: 46px;
+    background-color: #ffffff;
+    border: 1px solid #dfe3e9;
+    padding: 0 20px;
+    line-height: 17px;
+    font-size: 15px;
+}
+.addcar .inputfields .inputfield input{
+    width: 205px;
+    height: 46px;
+    background-color: #ffffff;
+    border: 1px solid #dfe3e9;
+    padding: 0 20px;
+    line-height: 17px;
+    font-size: 15px;
+}
+
+/* .addcar .inputfields .inputfield select:focus option:nth-child(1){
+    display: none;
+} */
+
+.addcar .inputfields .radiofield{
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    height: fit-content;
+    overflow: hidden;
+}
+.addcar .inputfields .radiofield input{
+    opacity: 0;
+    position: absolute;
+    visibility: hidden;
+}
+#used0:checked~.radiolabel0{
+    color: #fff;
+    background-color: #ca1016;
+    border-color: #ca1016;
+}
+#used1:checked~.radiolabel1{
+    color: #fff;
+    background-color: #ca1016;
+    border-color: #ca1016;
+}
+#used2:checked~.radiolabel2{
+    color: #fff;
+    background-color: #ca1016;
+    border-color: #ca1016;
+}
+
+#gear0:checked~.radiolabel0{
+    color: #fff;
+    background-color: #ca1016;
+    border-color: #ca1016;
+}
+#gear1:checked~.radiolabel1{
+    color: #fff;
+    background-color: #ca1016;
+    border-color: #ca1016;
+}
+
+.addcar .inputfields .radiofield label{
+    -webkit-box-flex: 1;
+    flex: 1 0 auto;
+    font-size: 15px;
+    line-height: 1;
+    color: #8d94ad;
+    padding: 15px 0;
+    text-align: center;
+    background-color: #fff;
+    cursor: pointer;
+    border: 1px solid #dfe3e9;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+
+.addcar .inputfields .showposts{
+    width: 177px;
+    height: 48px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    overflow: hidden;    
+}
+.addcar .inputfields .showposts button{
+    width: 177px;
+    height: 48px;
+    border: 1px solid transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background-color: #ca1016;
+    border-color: #ca1016;
+    font-size: 15px;
+}
+.addcar .inputfields .showposts button:hover{
+    cursor: pointer;
+}

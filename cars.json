@@ -1,0 +1,563 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "car": "BMW",
+      "model": "X3",
+      "new": "Old",
+      "ban": "Offroader",
+      "miles": 3000,
+      "price": 41700,
+      "fuel": "Benzin",
+      "gear": "Automatic",
+      "year": 2010,
+      "user": "user",
+      "number": "050 555 55 55",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F01%2F21%2F51%2F55%2F49e81b67-2ae8-43c4-85fb-678a01d9bd70%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F01%2F21%2F51%2F55%2Fb6e8843c-b434-4a72-9685-9e4cc67c0711%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F01%2F21%2F51%2F55%2Faaf1e629-a26f-49eb-920a-e6d306cc5422%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F01%2F21%2F51%2F56%2F9e961f9a-77eb-41e1-97af-d421bc1c23e4%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "car": "Chevrolet",
+      "model": "Camaro",
+      "new": "Old",
+      "ban": "Kupe",
+      "miles": 140100,
+      "price": 23900,
+      "fuel": "Benzin",
+      "gear": "Automatic",
+      "year": 2010,
+      "user": "user",
+      "number": "050 555 55 55",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F30%2F23%2Ff9a37a69-c94c-443e-8830-e4756fa953b7%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F30%2F23%2F5d08989b-d74f-4d3c-9008-790a7317d31a%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F30%2F24%2Feb6ce3fa-716f-4c46-bd53-30a01bac9ec1%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F30%2F25%2F25a23d89-7387-4693-a439-3d7520a43a8c%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F30%2F24%2F5face6a1-7020-4bf5-bd1a-a62675a5f081%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F30%2F24%2F139c6b7a-9ec7-459e-ad0e-10b51d8a78ad%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F30%2F24%2F8735bf44-c42c-4e34-bdca-48de863664d9%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F30%2F23%2Fa4fa46fc-e88e-4a03-92e3-9e129769e698%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F30%2F25%2F19eaa33f-66f0-41ec-87ba-59d331f7773f%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F30%2F24%2Fcca1e5f0-d639-4352-840c-83eb4c93cdd4%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg"
+      ]
+    },
+    {
+      "id": "507c",
+      "car": "Mercedes",
+      "model": "E220D",
+      "new": "Old",
+      "ban": "Sedan",
+      "miles": "410345",
+      "price": "22200",
+      "fuel": "Dizel",
+      "gear": "Automatic",
+      "year": "2008",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F18%2F02%2F46%2F55%2Fdf0c795e-0e4e-4998-abbd-6973ef986392%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F18%2F02%2F46%2F55%2F6fc35f28-d007-4267-915e-fd3376a04c0d%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F18%2F02%2F46%2F55%2Fb0502bd6-e326-4821-9666-4e61a38125fb%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F18%2F02%2F46%2F55%2F16716332-fb76-43d1-a442-71246b00c2c7%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F18%2F02%2F46%2F55%2F58582783-dcd5-409f-8a4d-d567c8cb72d8%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F18%2F02%2F46%2F54%2F5b9dc00f-a4f5-4c4f-86c3-1ac8798c120b%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg"
+      ]
+    },
+    {
+      "id": "570f",
+      "car": "Mercedes",
+      "model": "E220D",
+      "new": "New",
+      "ban": "Sedan",
+      "miles": "29000",
+      "price": "58500",
+      "fuel": "dizel",
+      "gear": "automatic",
+      "year": "2021",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F02%2F11%2F57%2F57%2Fc177b86f-35e6-4491-b57e-e779aab7e366%2F32444_OikwS_ZIYofkU92pw8zouQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F02%2F11%2F59%2F05%2F0664d546-e844-435b-9019-7338b67bff89%2F90393_ODR1trMUn1QUOVEF2iZirw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F02%2F12%2F01%2F07%2F4d3658ec-9dc8-486c-94a2-538f924e16ba%2F32444_OikwS_ZIYofkU92pw8zouQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F02%2F12%2F01%2F08%2F0582de7c-f218-4098-b5a2-8b4f25ce74f8%2F32444_OikwS_ZIYofkU92pw8zouQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F02%2F12%2F01%2F05%2F6c41c0bb-b8c6-4bb8-915e-3915808e01de%2F32444_OikwS_ZIYofkU92pw8zouQ.jpg"
+      ]
+    },
+    {
+      "id": "1454",
+      "car": "Mercedes",
+      "model": "Vito",
+      "new": "Old",
+      "ban": "Furqon",
+      "miles": "249000",
+      "price": "22000",
+      "fuel": "Dizel",
+      "gear": "Manual",
+      "year": "2007",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F21%2F05%2F18%2F49%2F2410711d-abc8-4cd8-8ce8-6a2e285ac3cd%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F21%2F05%2F15%2F20%2Faf0e0476-fad3-4c3d-ada8-ea50cdad071c%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F21%2F05%2F15%2F19%2Fd4152d13-c039-40ea-8502-64126b972119%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F21%2F05%2F15%2F20%2F2c01d2ab-444d-40de-a683-2bf0fa4fd40d%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F21%2F05%2F15%2F20%2F9d496130-d0a2-49e8-bab9-82c5fb2d8239%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F21%2F05%2F18%2F50%2Fa4d05654-114c-4cef-b84e-76eb9afe4dd5%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F21%2F05%2F18%2F51%2F62813311-36ad-480e-aa2c-be3c765e1786%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg"
+      ]
+    },
+    {
+      "id": "c47c",
+      "car": "Mercedes",
+      "model": "Vito111",
+      "new": "Old",
+      "ban": "Furqon",
+      "miles": "380000",
+      "price": "21500",
+      "fuel": "Dizel",
+      "gear": "Manual",
+      "year": "2007",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F07%2F15%2F34%2F50%2Fdefbc450-dcfb-41b7-9fe3-58a655082a76%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F07%2F15%2F34%2F27%2F608dc6b0-5c51-4dbd-958d-e4cedcc98058%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F07%2F15%2F34%2F49%2Fc87a1e3e-c02c-4297-8267-ee215b92e433%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F07%2F15%2F34%2F12%2F1061045b-62bf-449c-8ac7-f253fec6e498%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F07%2F15%2F34%2F45%2F53d43ecb-619c-45d3-b37e-bd2cb03a26d1%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg"
+      ]
+    },
+    {
+      "id": "f25a",
+      "car": "Chevrolet",
+      "model": "Cruze",
+      "new": "Old",
+      "ban": "Furqon",
+      "miles": "210000",
+      "price": "14800",
+      "fuel": "Benzin",
+      "gear": "Automatic",
+      "year": "2014",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F14%2F16%2F46%2F59%2F9c2deffd-bc77-4f97-8106-3823e8d23338%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F14%2F16%2F46%2F59%2F3b832479-2f31-4288-beed-07eab0dd76fc%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F14%2F16%2F46%2F59%2F8ffaedd3-22a5-415f-9872-6b34e76c5c58%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F14%2F16%2F46%2F59%2Fa779f34b-9ea4-4c89-a998-ea6007e6e0b7%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F14%2F16%2F46%2F59%2F944fc5a0-f3b6-46da-a345-980b9b5c130c%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F14%2F16%2F46%2F59%2Ff0d25eba-0eb3-4b23-938f-597a9126fc98%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F14%2F16%2F46%2F59%2F5c9391fe-2256-47ac-862f-c7dcf8ee4220%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg"
+      ]
+    },
+    {
+      "id": "4ad2",
+      "car": "Chevrolet",
+      "model": "Cruze",
+      "new": "Old",
+      "ban": "Sedan",
+      "miles": "242000",
+      "price": "12900",
+      "fuel": "Benzin",
+      "gear": "Automatic",
+      "year": "2014",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F17%2F20%2F17%2F26%2F60236912-cf88-4dd1-9b2f-9b75ac202fd5%2F90393_ODR1trMUn1QUOVEF2iZirw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F17%2F20%2F18%2F36%2Fb85d4f97-96e5-42aa-beb2-2780108b82d8%2F90393_ODR1trMUn1QUOVEF2iZirw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F17%2F20%2F18%2F36%2F327dde39-a7cb-4064-a48f-fc39a414acc3%2F90393_ODR1trMUn1QUOVEF2iZirw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F17%2F20%2F18%2F36%2Fffbc393b-ed85-48b2-b723-4546a9995ebe%2F90393_ODR1trMUn1QUOVEF2iZirw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F17%2F20%2F18%2F36%2F58de869a-59b3-4450-8dd3-2e01f26498b9%2F90393_ODR1trMUn1QUOVEF2iZirw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F17%2F20%2F17%2F34%2F31045d26-e906-40ab-a538-4e464174c604%2F14231_J-_dQLKSND7AOyYEFIDxaw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F17%2F20%2F17%2F51%2F10e95cb4-dfcc-4e8e-bf53-38c12ab00e5b%2F14231_J-_dQLKSND7AOyYEFIDxaw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F17%2F20%2F18%2F30%2F5ba96d96-48fb-44d7-9ced-3f468fe20b7b%2F14231_J-_dQLKSND7AOyYEFIDxaw.jpg"
+      ]
+    },
+    {
+      "id": "0385",
+      "car": "BMW",
+      "model": "X5",
+      "new": "New",
+      "ban": "Offroader",
+      "miles": "12000",
+      "price": "95500",
+      "fuel": "Benzin",
+      "gear": "Automatic",
+      "year": "2022",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F10%2F11%2F27%2F25%2F8476acfc-8b49-4114-bf1d-e58c76d0bfee%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F10%2F11%2F26%2F06%2F97fd58d6-bfcb-426b-a9fe-5bc80a666563%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F10%2F11%2F26%2F07%2Fa5018341-1520-4352-a183-f2fd0c0d0e8d%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F10%2F11%2F26%2F06%2F6a16cc0c-eda7-42ea-b0ea-000389ff6c5b%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F10%2F11%2F26%2F08%2Fa7fc10c3-cd81-4081-ba3c-2350cc49e127%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F10%2F11%2F25%2F56%2Fab31bf66-31ec-48fb-906a-a040d14da2be%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F10%2F11%2F26%2F08%2F5359984c-d39c-44a7-b602-1da0ceb6dde5%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F10%2F11%2F26%2F05%2F12e7076b-0995-451f-83e6-4b51e9e0b774%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg"
+      ]
+    },
+    {
+      "id": "c63b",
+      "car": "BMW",
+      "model": "X5",
+      "new": "Old",
+      "ban": "Offroader",
+      "miles": "184000",
+      "price": "33500",
+      "fuel": "Benzin",
+      "gear": "Automatic",
+      "year": "2015",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F10%2F11%2F27%2F25%2F8476acfc-8b49-4114-bf1d-e58c76d0bfee%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F10%2F11%2F26%2F06%2F97fd58d6-bfcb-426b-a9fe-5bc80a666563%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F10%2F11%2F26%2F07%2Fa5018341-1520-4352-a183-f2fd0c0d0e8d%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F10%2F11%2F26%2F06%2F6a16cc0c-eda7-42ea-b0ea-000389ff6c5b%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F10%2F11%2F26%2F08%2Fa7fc10c3-cd81-4081-ba3c-2350cc49e127%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F10%2F11%2F25%2F56%2Fab31bf66-31ec-48fb-906a-a040d14da2be%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F10%2F11%2F26%2F08%2F5359984c-d39c-44a7-b602-1da0ceb6dde5%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F10%2F11%2F26%2F05%2F12e7076b-0995-451f-83e6-4b51e9e0b774%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg"
+      ]
+    },
+    {
+      "id": "b90c",
+      "car": "BMW",
+      "model": "520",
+      "new": "Old",
+      "ban": "Universal",
+      "miles": "230000",
+      "price": "17800",
+      "fuel": "Dizel",
+      "gear": "Manual",
+      "year": "2008",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F18%2F01%2F41%2F12%2F90f28f7d-dccd-4751-9eb0-51b166dec10e%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F18%2F01%2F41%2F13%2F641343bf-88de-4b86-a9f2-963bd3a42009%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F18%2F01%2F41%2F12%2F99d5af8e-b7c1-481c-857c-cd22c6bae946%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F18%2F01%2F41%2F13%2Fc69df268-6ba8-4e6e-9a27-39f674f56ca0%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F18%2F01%2F41%2F12%2Fb22e1361-8301-47b7-a1a5-6121f5667252%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F18%2F01%2F41%2F13%2F19a0816c-ea8e-4b8e-96c6-5d56f8036b9b%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F18%2F01%2F41%2F12%2F4f3ff759-9939-42da-ab6b-d399256821e1%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg"
+      ]
+    },
+    {
+      "id": "4431",
+      "car": "BMW",
+      "model": "520",
+      "new": "New",
+      "ban": "Sedan",
+      "miles": "26500",
+      "price": "48500",
+      "fuel": "Benzin",
+      "gear": "Automatic",
+      "year": "2021",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F04%2F21%2F46%2F42%2F26318bc5-45f5-476f-b076-293828afa3d4%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F04%2F21%2F46%2F44%2F4fce32d4-6e65-473f-99f1-ef5f7fb00e20%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F04%2F21%2F46%2F45%2Fafe398ae-cab8-4241-a52c-65790558f9d8%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F04%2F21%2F46%2F43%2F8e989e0c-f6b5-4de8-9050-c17477bc0e1d%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F04%2F21%2F46%2F36%2Fed1de293-ad63-4ef9-bc47-3e9290c10d97%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F04%2F21%2F46%2F41%2Fd7c9220a-bee0-4073-b972-1a815a2d24b7%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F04%2F21%2F46%2F40%2F43a682b4-5df0-4c8b-ad8a-331c5873b3c7%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F04%2F21%2F46%2F38%2F0a730a27-568f-4662-a17c-d03f6b3c086b%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg"
+      ]
+    },
+    {
+      "id": "1cde",
+      "car": "Maserati",
+      "model": "Ghibli",
+      "new": "Old",
+      "ban": "Sedan",
+      "miles": "68000",
+      "price": "35500",
+      "fuel": "Benzin",
+      "gear": "Automatic",
+      "year": "2015",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F16%2F10%2F17%2F54%2F4d30f05a-9a41-40ab-a47b-751a65678cd5%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F16%2F10%2F17%2F54%2Fc94ad4aa-359b-48ba-a988-4f93eafdbc5c%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F16%2F10%2F17%2F53%2F3446b769-537d-4a3b-8812-af616e8b7045%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F16%2F10%2F17%2F53%2F35f014bf-a595-47c3-861c-f59ce1588174%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F16%2F10%2F17%2F54%2F78b6156b-e663-4ca8-b2c3-2e7cfe3d4c35%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F16%2F10%2F17%2F54%2Fad6a5634-a7ab-4483-93c1-380606f3ac34%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F16%2F10%2F17%2F53%2Fd92d26f8-c2e5-4c2e-a393-1a7b62bf7cf9%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F16%2F10%2F17%2F53%2F04117046-a362-4c01-8c06-62bf208a1248%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F16%2F10%2F17%2F54%2F603a6de1-4f9a-413c-b71f-dbf9168cd2ad%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg"
+      ]
+    },
+    {
+      "id": "f31d",
+      "car": "Maserati",
+      "model": "Ghibli",
+      "new": "Old",
+      "ban": "Sedan",
+      "miles": "89000",
+      "price": "29000",
+      "fuel": "Benzin",
+      "gear": "Automatic",
+      "year": "2014",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F15%2F23%2F07%2F29%2F36516675-f4d1-4543-985f-8059fdbbe5e4%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F15%2F23%2F07%2F30%2Fab511829-1589-4d69-982a-48eeafc3dea0%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F15%2F23%2F07%2F32%2F45e493c4-b342-4bc6-931d-0eb270776ed6%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F15%2F23%2F07%2F31%2F1db5985c-7fe8-4064-b3dd-c4d073a3ae22%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F15%2F23%2F07%2F31%2F4f958730-4bc8-44bf-9443-0c67c8824884%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F15%2F23%2F07%2F29%2Fd4fdcc31-8d1b-41ad-a1dd-aeb9ae80c786%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F15%2F23%2F07%2F30%2F2f1e8a6e-41fb-437c-bdcb-8aedcbe437ee%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F15%2F23%2F07%2F29%2Ff529e9eb-cb20-44a0-9fff-3cf93aad54a6%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F15%2F23%2F07%2F29%2Fb1dc4145-9c0a-4483-8195-ec28171d2fe8%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F15%2F23%2F07%2F30%2Fd13696fd-8b59-4225-9abd-f3f1978cc3c9%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F15%2F23%2F07%2F30%2F70028255-59ec-4c85-8409-3a2c298dd6c9%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F15%2F23%2F07%2F31%2Fe88db50e-a8a7-49f1-9e91-c2fcc141ed0e%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg"
+      ]
+    },
+    {
+      "id": "0d06",
+      "car": "Maserati",
+      "model": "Quattroporte",
+      "new": "Old",
+      "ban": "Sedan",
+      "miles": "83000",
+      "price": "23500",
+      "fuel": "Benzin",
+      "gear": "Automatic",
+      "year": "2012",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F07%2F13%2F32%2F49%2Fada38a11-8d6f-41c2-bcf4-8a8a522c8df1%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F07%2F13%2F34%2F01%2F1e2dcbd3-efa0-463e-8ee6-0f0430298e0f%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F07%2F13%2F33%2F53%2Fa81c5d81-ab07-489b-bada-da6ceab91c0f%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F07%2F13%2F34%2F02%2F0eca4f9a-8f1f-4f1a-bafa-1910233ba38a%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F07%2F13%2F34%2F03%2Fc02c5bae-8d80-4351-a9db-932f88e9fd0e%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F07%2F13%2F34%2F03%2F12c22d16-26dd-434f-8311-0eceadc059d7%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F07%2F13%2F33%2F09%2Fe839c63a-1f23-4471-b1d1-1ea951d4a593%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F07%2F13%2F34%2F00%2Fa64c269d-8464-4e4a-8fe6-dc2ca2203324%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F07%2F13%2F34%2F00%2F9920daac-205e-4f9a-b04d-1b3a11d78919%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg"
+      ]
+    },
+    {
+      "id": "6787",
+      "car": "Maserati",
+      "model": "Quattroporte",
+      "new": "Old",
+      "ban": "Sedan",
+      "miles": "121000",
+      "price": "24500",
+      "fuel": "Benzin",
+      "gear": "Automatic",
+      "year": "2014",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F27%2F19%2F41%2F38%2F0540e4cb-36fc-492e-be00-95d8c0016d6c%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F27%2F19%2F41%2F38%2F363cb952-11d1-408a-a24a-8a95f05ab936%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F27%2F19%2F41%2F36%2F2ad93f44-0899-4856-aa00-90ab40ad2ebc%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F27%2F19%2F41%2F38%2Fc7b9a3a5-c243-4df4-8a16-6e7a29095f8f%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F27%2F19%2F41%2F38%2Fa87633f9-5651-448a-a0aa-03998b98ac25%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg"
+      ]
+    },
+    {
+      "id": "e137",
+      "car": "Volvo",
+      "model": "XC60",
+      "new": "Old",
+      "ban": "Offroader",
+      "miles": "80554",
+      "price": "35000",
+      "fuel": "Benzin",
+      "gear": "Automatic",
+      "year": "2018",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F46%2F18%2F5ea8c247-f903-4494-a16a-8b26033150cb%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F46%2F17%2F4b0eb062-2ad5-48d7-9eeb-1baa7ccf0b3e%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F46%2F17%2Fddb7010e-a16c-4349-87f2-3e33b6832fdc%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F46%2F18%2F0911b17e-fd3a-4f77-b185-c31cabf2ee30%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F46%2F17%2F24fffd67-add3-4562-b95e-0cac35d3a7ea%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F46%2F18%2Fa8524076-ddaf-4c15-9c22-d3d2e3bb3320%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F46%2F19%2F63b5959a-5bed-4223-854b-0bce2063ea86%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F46%2F20%2F22e469b5-7afd-41f3-aca8-b9389eff4b3f%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F10%2F22%2F46%2F19%2F0821c6a7-9cf1-4663-bf5e-068cfcc1b5cb%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg"
+      ]
+    },
+    {
+      "id": "56f2",
+      "car": "Volvo",
+      "model": "XC60",
+      "new": "Old",
+      "ban": "Offroader",
+      "miles": "165000",
+      "price": "24000",
+      "fuel": "Benzin",
+      "gear": "Automatic",
+      "year": "2011",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F17%2F21%2F52%2F42%2Fe405b4b2-b8ba-43d4-ace6-49d56599728c%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F17%2F21%2F53%2F26%2F4d5837c1-2d00-4653-925d-a6628111d9ce%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F17%2F21%2F53%2F26%2Fc07afeb8-b72e-4d52-9c09-eb4de99085ab%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F17%2F21%2F53%2F26%2F0fd45d0c-00aa-486f-aec0-2d8336276992%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F17%2F21%2F53%2F26%2Ff0f9c7bd-281a-4c37-a9aa-5a0ca9f5e9e2%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F17%2F21%2F53%2F26%2F670a4232-d51a-4407-8f7f-c17af595004c%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F17%2F21%2F53%2F26%2F7734efe8-6ead-434d-97b8-b29c3489c516%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F17%2F21%2F53%2F26%2F84ea27f1-e9b8-4ef1-a4fe-812d24df6f45%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F17%2F21%2F53%2F26%2F05030ee3-b91e-4645-9850-8565696d4bab%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F17%2F21%2F53%2F26%2Fe5dc735e-6269-4ba6-8cd1-f8eb7d202b4e%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg"
+      ]
+    },
+    {
+      "id": "be8a",
+      "car": "Volvo",
+      "model": "XC90",
+      "new": "New",
+      "ban": "Offroader",
+      "miles": "33000",
+      "price": "57000",
+      "fuel": "Benzin",
+      "gear": "Automatic",
+      "year": "2022",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F03%2F24%2F14%2F50%2F05%2F7070dcd0-9a50-4809-a286-8bc5c675569f%2F32444_OikwS_ZIYofkU92pw8zouQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F03%2F24%2F14%2F50%2F05%2Fd3338688-b5cf-4785-a2f9-c7925fc8323a%2F32444_OikwS_ZIYofkU92pw8zouQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F03%2F24%2F14%2F50%2F05%2F2786a1b0-df9a-468d-b468-2961656c7504%2F32444_OikwS_ZIYofkU92pw8zouQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F03%2F24%2F14%2F50%2F08%2Fb8f3cc98-4778-4310-8ea1-c11489183af6%2F32444_OikwS_ZIYofkU92pw8zouQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F03%2F24%2F14%2F50%2F09%2F421412fd-1588-42ec-a4c6-7791d9f16186%2F32444_OikwS_ZIYofkU92pw8zouQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F03%2F24%2F14%2F50%2F08%2F480077ef-b19b-4fb0-a2aa-60b385a521d5%2F32444_OikwS_ZIYofkU92pw8zouQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F03%2F24%2F14%2F50%2F10%2F9787d445-cc78-4a2f-9805-44069df2f480%2F14231_J-_dQLKSND7AOyYEFIDxaw.jpg"
+      ]
+    },
+    {
+      "id": "ce7f",
+      "car": "Volvo",
+      "model": "XC90",
+      "new": "New",
+      "ban": "Offroader",
+      "miles": "43000",
+      "price": "47500",
+      "fuel": "Hibrid",
+      "gear": "Automatic",
+      "year": "2022",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F05%2F19%2F46%2F59%2F06721d35-355c-4eb7-bdda-bd6604045e93%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F05%2F19%2F46%2F59%2Fd4a4e2b4-9409-4f08-bd92-13182dc65a75%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F05%2F19%2F47%2F00%2Fd4861042-8b82-4a8e-9974-a425f5c3e48d%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F05%2F19%2F46%2F59%2Fe10a6d9f-57a6-46d7-8f6d-c3529b7b68ca%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F05%2F19%2F46%2F59%2F2814bf5c-940a-4261-bf22-1e4fc0ae88c6%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F05%2F19%2F47%2F00%2F8b4d328f-a011-48b9-89a2-33d78f7c733a%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F05%2F19%2F47%2F00%2F28b63d0c-58ee-4a5f-9c87-5e4ad097395f%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg"
+      ]
+    },
+    {
+      "id": "be51",
+      "car": "Chevrolet",
+      "model": "Camaro",
+      "new": "Old",
+      "ban": "Kupe",
+      "miles": "43000",
+      "price": "42000",
+      "fuel": "Benzin",
+      "gear": "Automatic",
+      "year": "2018",
+      "user": "GeraltOfRivia",
+      "number": "070 386 89 94",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F01%2F15%2F22%2F48%2Faf09c273-24ad-4077-b67d-4201a80c8a20%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F01%2F15%2F22%2F48%2F251bd512-e3f6-46eb-91cb-7c21df47a674%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F01%2F15%2F22%2F48%2F3bbaf38a-93af-4c59-888b-77dddc998d48%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F12%2F19%2F19%2F48%2Fcd469ce0-664d-40d5-b0ef-2446af73449f%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F12%2F19%2F19%2F59%2F1835a03c-4874-4ddf-82dd-77dcc9866903%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F12%2F19%2F20%2F27%2F07166c28-7a1f-46e8-91cf-849da1284057%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F12%2F19%2F20%2F05%2F87d43451-0366-4034-ab70-871c9fe5a26a%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F01%2F15%2F22%2F43%2F92969984-6df5-4a91-b107-9a161822b00d%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F12%2F19%2F19%2F18%2Fa4353a84-b7d8-451f-917f-4b8aa755cee8%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg"
+      ]
+    },
+    {
+      "id": "fb1a",
+      "car": "BMW",
+      "model": "X5",
+      "new": "New",
+      "ban": "Furqon",
+      "miles": "2000",
+      "price": "50000",
+      "fuel": "Benzin",
+      "gear": "Automatic",
+      "year": "2023",
+      "user": "user",
+      "image": [
+        "https://turbo.azstatic.com/uploads/full/2023%2F11%2F21%2F17%2F52%2F38%2F8432a83a-9821-46f9-93be-59b7c1210eb9%2F88114_kymviFt5GxOYnicSZECFPQ.jpg"
+      ]
+    }
+  ],
+  "favorite": [
+    {
+      "id": "-1",
+      "userId": "-1",
+      "carId": "-1"
+    },
+    {
+      "id": "522c",
+      "userId": "9fe8",
+      "carId": "2"
+    },
+    {
+      "id": "e8cc",
+      "userId": "9fe8",
+      "carId": "be51"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "password": "password1",
+      "number": "050 555 55 55"
+    },
+    {
+      "id": "2",
+      "username": "user2",
+      "password": "password2",
+      "number": "050 555 55 55"
+    },
+    {
+      "id": "eb59",
+      "username": "user",
+      "password": "password"
+    },
+    {
+      "id": "9fe8",
+      "username": "Helix",
+      "password": "helix123"
+    },
+    {
+      "id": "6ac6",
+      "username": "GeraltOfRivia",
+      "password": "Yennefer",
+      "phone": "070 386 89 94"
+    }
+  ]
+}
